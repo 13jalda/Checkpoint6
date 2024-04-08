@@ -324,8 +324,7 @@ En Python, los métodos dunder (abreviatura de «double underscore methods», ta
 
 Los métodos dunder pueden utilizarse para implementar características como la inicialización de objetos, la representación en forma de cadena, la sobrecarga de operadores, la comparación, entre otras.
 
-Por ejemplo, el método __init__ es un método dunder. Como ya hemos visto en el punto 2 que se usa para inicializar un objeto cuando se crea una instancia de una clase. A continuación se muestra una lista de algunos de los métodos dunder más comunes en Python, **__init** ya lo vimos con atr¡erioridad, isto:
-
+Por ejemplo, el método **__init__** es un método dunder. Como ya hemos visto en el punto 2 que se usa para inicializar un objeto cuando se crea una instancia de una clase. Como **__init__** ya lo vimos con aterioridad, a continuación se muestra una lista de algunos de los métodos dunder más comunes en Python:
 
 **__str__**
 
